@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rahmanziaur/solid/blob/main/solid.png" alt="SOLID Principles in Java — banner" width="820">
+<img src="https://raw.githubusercontent.com/rahmanziaur/solid/refs/heads/main/solid.png" alt="SOLID Principles in Java — banner" width="820">
 </div>
 
 <br>
