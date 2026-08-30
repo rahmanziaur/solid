@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/license-MIT-64748b?style=flat-square)](#-license)
 [![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
 
-**[📖 Read the guide](http://rahmanziaur.github.io/solid)** · **[🌐 More Java on Design Pattern](https://rahmanziaur.github.io/Java)** · **[🐙 Author on GitHub](https://rahmanziaur.github.io/)**
+**[📖 See this Tutorial here](http://rahmanziaur.github.io/solid)** · **[🌐 More Java on Design Pattern](https://rahmanziaur.github.io/Java)** · **[🐙 Author on GitHub](https://rahmanziaur.github.io/)**
 
 </div>
 
